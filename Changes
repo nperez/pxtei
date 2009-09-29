@@ -1,4 +1,7 @@
-Revision history for {{ $dist->name }}: {{ $dist->version }}
+Revision history for POEx-Trait-ExtraInitialization: {{ $dist->version }}
 
 {{ $NEXT }}
+        Second initial release because it wasn't indexed apparently
+
+0.092670  2009-09-24 23:45:50 UTC
         Initial release
